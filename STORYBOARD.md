@@ -43,8 +43,12 @@ of the proposed software system.
 ### Session 3
 - Identified the stakeholders.
 - Identified the main users of the system.
-### Session 4
+
+## Session 4
+
 - Identified the functional requirements.
 - Documented the main functions of the system.
- | 4 | Functional requirement identification | Completed | 
 
+| No. | Task | Status |
+|---|---|---|
+| 4 | Functional requirement identification | Completed |
