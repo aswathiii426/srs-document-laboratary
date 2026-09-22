@@ -52,3 +52,11 @@ requirements and specifications of the Student Management System.
 - Identified the functional requirements.
 - Documented the main functions of the system.
 Update storyboard - Session 3 completed
+PROJECT STORYBOARD
+
+Session 1  ██████████  Completed
+Session 2  ██████████  Completed
+Session 3  ██████████  Completed
+Session 4  ██████░░░░  In Progress
+Session 5  ░░░░░░░░░░  Not Started
+Session 6  ░░░░░░░░░░  Not Started
