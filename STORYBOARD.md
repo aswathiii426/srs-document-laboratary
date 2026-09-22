@@ -75,3 +75,4 @@ Session 6  ░░░░░░░░░░  Not Started
 - Defined the scope of the system.
 - Added basic definitions and abbreviations.
 - Session 2 - Storyboard updated
+| 4 | Functional requirement identification | Completed |
