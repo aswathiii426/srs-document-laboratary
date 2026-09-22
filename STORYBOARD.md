@@ -51,3 +51,4 @@ requirements and specifications of the Student Management System.
 ### Session 4
 - Identified the functional requirements.
 - Documented the main functions of the system.
+Update storyboard - Session 3 completed
