@@ -86,3 +86,58 @@ Therefore, a Student Management System is proposed to provide an
 organized method for storing, managing and retrieving student
 information. The system will help authorized users manage student
 records efficiently.
+### 3.1 Functional Requirements
+
+The functional requirements describe the functions that the
+Student Management System shall provide to its users.
+
+#### FR1 – User Login
+
+The system shall allow authorized users to log in using a valid
+username and password.
+
+#### FR2 – Add Student
+
+The system shall allow the administrator to add new student
+information such as student name, roll number, course and contact
+details.
+
+#### FR3 – Update Student
+
+The system shall allow the administrator to update existing
+student information.
+
+#### FR4 – Delete Student
+
+The system shall allow the administrator to delete student
+records when required.
+
+#### FR5 – View Student Details
+
+The system shall allow authorized users to view student
+information.
+
+#### FR6 – Search Student
+
+The system shall allow users to search for student records using
+details such as student ID or name.
+
+#### FR7 – Manage Attendance
+
+The system shall allow authorized teachers or administrators to
+record and update student attendance.
+
+#### FR8 – Manage Marks
+
+The system shall allow authorized teachers or administrators to
+enter and update student marks.
+
+#### FR9 – View Academic Information
+
+The system shall allow students to view their marks and attendance
+information.
+
+#### FR10 – Generate Reports
+
+The system shall allow authorized users to generate student
+academic and attendance reports.
