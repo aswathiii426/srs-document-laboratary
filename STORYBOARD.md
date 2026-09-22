@@ -53,3 +53,7 @@ of the proposed software system.
 - Identified the System Administrator.
 - Defined the role of each stakeholder.
 - Added stakeholder requirements to the SRS document.
+## Session 5
+
+- Identified the functional requirements.
+- Documented the main functions of the system.
