@@ -48,3 +48,6 @@ requirements and specifications of the Student Management System.
 ### Session 3
 - Identified the stakeholders.
 - Identified the main users of the system.
+### Session 4
+- Identified the functional requirements.
+- Documented the main functions of the system.
