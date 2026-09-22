@@ -44,11 +44,7 @@ of the proposed software system.
 - Identified the stakeholders.
 - Identified the main users of the system.
 
-## Session 4
-
-- Identified the functional requirements.
-- Documented the main functions of the system.
-### Session 3 – Stakeholder Identification
+### Session 4 – Stakeholder Identification
 
 - Identified the main stakeholders of the system.
 - Identified the Administrator as a stakeholder.
