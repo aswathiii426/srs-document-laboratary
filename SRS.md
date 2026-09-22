@@ -171,4 +171,4 @@ software system, database and user access.
 - The teacher shall be able to manage attendance and marks.
 - The student shall be able to view academic information.
 - The system administrator shall be able to maintain the system
-  and manage authorized access.
+  and manage authorized access
