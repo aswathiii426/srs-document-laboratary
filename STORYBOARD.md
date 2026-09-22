@@ -29,11 +29,6 @@ of the proposed software system.
 | 12 | Final documentation | Not Started |
 | 13 | Final submission | Not Started |
 
-## Expected Outcome
-A complete and validated SRS document describing the
-requirements and specifications of the Student Management System.
-| 3 | Stakeholder identification | Completed |
-| 4 | Functional requirement identification | In Progress |
 ## Progress Log
 
 ### Session 1
@@ -51,14 +46,5 @@ requirements and specifications of the Student Management System.
 ### Session 4
 - Identified the functional requirements.
 - Documented the main functions of the system.
-PROJECT STORYBOARD
-
-Session 1  ██████████  Completed
-Session 2  ██████████  Completed
-Session 3  ██████████  Completed
-Session 4  ██████░░░░  In Progress
-Session 5  ░░░░░░░░░░  Not Started
-Session 6  ░░░░░░░░░░  Not Started
-| 2 | Problem statement and objectives | Completed |
-| 3 | Stakeholder identification | In Progress |
+  
 
