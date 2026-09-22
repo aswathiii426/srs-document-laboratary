@@ -46,5 +46,5 @@ of the proposed software system.
 ### Session 4
 - Identified the functional requirements.
 - Documented the main functions of the system.
-  
+ | 4 | Functional requirement identification | Completed | 
 
