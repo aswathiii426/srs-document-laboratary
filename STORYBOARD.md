@@ -34,3 +34,17 @@ A complete and validated SRS document describing the
 requirements and specifications of the Student Management System.
 | 3 | Stakeholder identification | Completed |
 | 4 | Functional requirement identification | In Progress |
+## Progress Log
+
+### Session 1
+- Identified the software problem.
+- Defined the project scope.
+- Created the initial project repository.
+
+### Session 2
+- Prepared the problem statement.
+- Defined the project objectives.
+
+### Session 3
+- Identified the stakeholders.
+- Identified the main users of the system.
