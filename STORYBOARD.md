@@ -62,3 +62,16 @@ Session 5  ░░░░░░░░░░  Not Started
 Session 6  ░░░░░░░░░░  Not Started
 | 2 | Problem statement and objectives | Completed |
 | 3 | Stakeholder identification | In Progress |
+## Progress Log
+
+### Session 1
+- Identified the software problem.
+- Defined the project scope.
+- Created the GitHub repository.
+
+### Session 2
+- Prepared the problem statement.
+- Defined the purpose of the system.
+- Defined the scope of the system.
+- Added basic definitions and abbreviations.
+- Session 2 - Storyboard updated
