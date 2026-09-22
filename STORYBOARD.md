@@ -74,4 +74,4 @@ Session 6  ░░░░░░░░░░  Not Started
 - Defined the purpose of the system.
 - Defined the scope of the system.
 - Added basic definitions and abbreviations.
-  
+  | 4 | Functional requirement identification | Completed |
