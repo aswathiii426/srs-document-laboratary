@@ -48,4 +48,12 @@ of the proposed software system.
 
 - Identified the functional requirements.
 - Documented the main functions of the system.
+### Session 3 – Stakeholder Identification
 
+- Identified the main stakeholders of the system.
+- Identified the Administrator as a stakeholder.
+- Identified Teachers as stakeholders.
+- Identified Students as stakeholders.
+- Identified the System Administrator.
+- Defined the role of each stakeholder.
+- Added stakeholder requirements to the SRS document.
