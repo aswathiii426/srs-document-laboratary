@@ -165,3 +165,10 @@ attendance and other academic details.
 
 The system administrator is responsible for maintaining the
 software system, database and user access.
+### 2.4 Stakeholder Requirements
+
+- The administrator shall be able to manage student records.
+- The teacher shall be able to manage attendance and marks.
+- The student shall be able to view academic information.
+- The system administrator shall be able to maintain the system
+  and manage authorized access.
