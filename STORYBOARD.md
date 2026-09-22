@@ -32,3 +32,5 @@ of the proposed software system.
 ## Expected Outcome
 A complete and validated SRS document describing the
 requirements and specifications of the Student Management System.
+| 3 | Stakeholder identification | Completed |
+| 4 | Functional requirement identification | In Progress |
