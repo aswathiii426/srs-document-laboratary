@@ -172,3 +172,6 @@ software system, database and user access.
 - The student shall be able to view academic information.
 - The system administrator shall be able to maintain the system
   and manage authorized access
+  Performance
+
+
