@@ -18,7 +18,7 @@ of the proposed software system.
 | 1 | Problem identification | Completed |
 | 2 | Project scope identification | Completed |
 | 3 | Problem statement preparation | Completed |
-| 4 | Stakeholder identification | In Progress |
+| 4 | Stakeholder identification | completed |
 | 5 | Functional requirement identification | completed |
 | 6 | Non-functional requirement identification | Not Started |
 | 7 | System requirement identification | Not Started |
