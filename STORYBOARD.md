@@ -61,5 +61,5 @@ Session 5  ░░░░░░░░░░  Not Started
 Session 6  ░░░░░░░░░░  Not Started
 | 2 | Problem statement and objectives | Completed |
 | 3 | Stakeholder identification | In Progress |
-
-  
+| 4 | Functional requirement identification | Not Started |change into 
+ | 4 | Functional requirement identification | Completed | 
