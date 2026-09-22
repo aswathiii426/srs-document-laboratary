@@ -19,7 +19,7 @@ of the proposed software system.
 | 2 | Project scope identification | Completed |
 | 3 | Problem statement preparation | Completed |
 | 4 | Stakeholder identification | In Progress |
-| 5 | Functional requirement identification | Not Started |
+| 5 | Functional requirement identification | completed |
 | 6 | Non-functional requirement identification | Not Started |
 | 7 | System requirement identification | Not Started |
 | 8 | Constraints and assumptions | Not Started |
@@ -49,7 +49,3 @@ of the proposed software system.
 - Identified the functional requirements.
 - Documented the main functions of the system.
 
-| No. | Task | Status |
-|---|---|---|
-| 4 | Functional requirement identification | Completed |
-| 4 | Functional requirement identification | Completed |
