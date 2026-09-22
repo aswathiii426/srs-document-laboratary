@@ -141,3 +141,27 @@ information.
 
 The system shall allow authorized users to generate student
 academic and attendance reports.
+### 2.3 Stakeholders
+
+The main stakeholders of the Student Management System are:
+
+#### 1. Administrator
+
+The administrator manages the overall system. The administrator
+can add, update, delete and view student information and manage
+user access.
+
+#### 2. Teacher
+
+The teacher uses the system to manage student academic information,
+including attendance and marks.
+
+#### 3. Student
+
+The student uses the system to view personal information, marks,
+attendance and other academic details.
+
+#### 4. System Administrator
+
+The system administrator is responsible for maintaining the
+software system, database and user access.
