@@ -52,3 +52,4 @@ of the proposed software system.
 | No. | Task | Status |
 |---|---|---|
 | 4 | Functional requirement identification | Completed |
+| 4 | Functional requirement identification | Completed |
