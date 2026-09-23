@@ -230,3 +230,20 @@ important data and recovering information in case of data loss.
 
 The system should be compatible with the required operating
 system, database and web browser or application environment.
+
+## 4. System Requirements
+
+### 4.1 Hardware Requirements
+
+The minimum hardware requirements required for the Student
+Management System are:
+
+| Component | Minimum Requirement |
+|-----------|---------------------|
+| Processor | Intel Core i3 or equivalent |
+| RAM | 4 GB |
+| Storage | 10 GB available space |
+| Keyboard | Standard keyboard |
+| Mouse | Standard mouse |
+| Display | 1366 × 768 resolution or above |
+| Network | Internet/LAN connection when required |
