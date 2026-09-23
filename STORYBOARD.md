@@ -112,3 +112,10 @@ of the proposed Student Management System.
 * GitHub repository organized.
 * Project files checked before submission.
 
+### Final Submission
+
+- Completed the SRS document.
+- Completed the project storyboard.
+- Reviewed all project files.
+- Verified the GitHub repository.
+- Prepared the repository for laboratory submission.
