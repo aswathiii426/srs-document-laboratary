@@ -22,8 +22,8 @@ of the proposed software system.
 | 5 | Functional requirement identification | completed |
 | 6 | Non-functional requirement identification | completed |
 | 7 | System requirement identification | completed |
-| 8 | Constraints and assumptions | in progress |
-| 9 | Use case preparation | Not Started |
+| 8 | Constraints and assumptions | completed |
+| 9 | Use case preparation | in progress |
 | 10 | SRS document preparation | Not Started |
 | 11 | SRS review and validation | Not Started |
 | 12 | Final documentation | Not Started |
