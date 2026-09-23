@@ -80,3 +80,13 @@ of the proposed software system.
 - Identified the database requirements.
 - Identified the development environment.
 - Added the system requirements to the SRS document.
+### Session 8 – Constraints and Assumptions
+
+- Identified the constraints of the Student Management System.
+- Identified authentication and access constraints.
+- Identified hardware and software constraints.
+- Identified database and network constraints.
+- Identified maintenance constraints.
+- Defined the assumptions made for the system.
+- Documented user and data-related assumptions.
+- Added constraints and assumptions to the SRS document.
