@@ -296,3 +296,28 @@ The following constraints apply to the Student Management System:
 8. **Maintenance Constraint**  
    Regular maintenance and database management may be required
    to ensure proper operation of the system.
+### 5.2 Assumptions
+
+The following assumptions are made for the Student Management System:
+
+1. Users have basic knowledge of using computers and the system.
+
+2. Authorized users have valid login credentials.
+
+3. The student information entered into the system is correct.
+
+4. The required hardware and software are available.
+
+5. The database is properly configured and accessible.
+
+6. Regular backups of important student information are maintained.
+
+7. The system administrator is responsible for maintaining user
+   accounts and system resources.
+
+8. Teachers and administrators enter academic information correctly.
+
+9. Students use the system only for authorized purposes.
+
+10. The system will be used according to the defined requirements
+    and user roles.
