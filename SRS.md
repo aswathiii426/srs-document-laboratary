@@ -259,3 +259,40 @@ The software requirements for the Student Management System are:
 | Web Browser | Google Chrome / Mozilla Firefox |
 | Development Environment | VS Code / IntelliJ IDEA / Eclipse |
 | Database Management Tool | MySQL Workbench / phpMyAdmin |
+## 5. Constraints and Assumptions
+
+### 5.1 Constraints
+
+The following constraints apply to the Student Management System:
+
+1. **Authentication Constraint**  
+   Only authorized users shall be allowed to access protected
+   student information.
+
+2. **Data Accuracy Constraint**  
+   The information entered into the system should be accurate
+   and complete.
+
+3. **Hardware Constraint**  
+   The system requires a computer or suitable device with the
+   minimum hardware configuration specified in the SRS.
+
+4. **Software Constraint**  
+   The system depends on the specified operating system,
+   programming environment, database and other required software.
+
+5. **Database Constraint**  
+   The system requires a properly configured database for storing
+   student information.
+
+6. **Network Constraint**  
+   If the system is implemented as a web-based or network-based
+   application, a reliable network connection may be required.
+
+7. **Access Constraint**  
+   Users can access only the features and information permitted
+   according to their roles.
+
+8. **Maintenance Constraint**  
+   Regular maintenance and database management may be required
+   to ensure proper operation of the system.
