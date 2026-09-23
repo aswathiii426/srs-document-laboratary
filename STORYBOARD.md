@@ -1,121 +1,114 @@
 # Project Storyboard
 
+
 ## Project Title
-Student Management System – SRS Document
+
+**Student Management System – Software Requirements Specification**
 
 ## Problem
-Preparation of a Software Requirements Specification document
-for a Student Management System.
+
+Preparation of a Software Requirements Specification (SRS)
+document for a Student Management System.
 
 ## Objective
+
 To identify, analyze, document and validate the requirements
-of the proposed software system.
+of the proposed Student Management System.
 
 ## Storyboard
 
-| Stage | Activity | Status |
-|------|----------|--------|
-| 1 | Problem identification | Completed |
-| 2 | Project scope identification | Completed |
-| 3 | Problem statement preparation | Completed |
-| 4 | Stakeholder identification | completed |
-| 5 | Functional requirement identification | completed |
-| 6 | Non-functional requirement identification | completed |
-| 7 | System requirement identification | completed |
-| 8 | Constraints and assumptions | completed |
-| 9 | SRS document preparation | completed |
-| 10 | SRS review and validation | completed|
-| 11 | Final documentation | in progress |
-| 12 | Final submission | Not Started |
+| Stage | Activity                                  | Status      |
+| ----- | ----------------------------------------- | ----------- |
+| 1     | Problem identification                    | Completed   |
+| 2     | Project scope identification              | Completed   |
+| 3     | Problem statement and objectives          | Completed   |
+| 4     | Stakeholder identification                | Completed   |
+| 5     | Functional requirement identification     | Completed   |
+| 6     | Non-functional requirement identification | Completed   |
+| 7     | System requirement identification         | Completed   |
+| 8     | Constraints and assumptions               | Completed   |
+| 9     | SRS document preparation                  | Completed   |
+| 10    | SRS review and validation                 | Completed   |
+| 11    | Final documentation                       | In Progress |
+| 12    | Final submission                          | Not Started |
 
 ## Progress Log
 
-### Session 1
-- Identified the software problem.
-- Defined the project scope.
-- Created the initial project repository.
+### Session 1 – Problem Identification
 
-### Session 2
-- Prepared the problem statement.
-- Defined the project objectives.
+* Identified the Student Management System as the laboratory problem.
+* Defined the basic problem to be addressed.
+* Identified the initial project scope.
 
-### Session 3
-- Identified the stakeholders.
-- Identified the main users of the system.
+### Session 2 – Problem Statement and Objectives
 
-### Session 4 – Stakeholder Identification
+* Prepared the problem statement.
+* Defined the purpose of the system.
+* Defined the scope of the system.
+* Added basic definitions and abbreviations.
 
-- Identified the main stakeholders of the system.
-- Identified the Administrator as a stakeholder.
-- Identified Teachers as stakeholders.
-- Identified Students as stakeholders.
-- Identified the System Administrator.
-- Defined the role of each stakeholder.
-- Added stakeholder requirements to the SRS document.
-## Session 5
+### Session 3 – Stakeholder Identification
 
-- Identified the functional requirements.
-- Documented the main functions of the system.
-### Session 6 – Non-Functional Requirements
+* Identified the main stakeholders.
+* Identified the Administrator, Teacher, Student and System Administrator.
+* Defined the role of each stakeholder.
+* Added stakeholder requirements.
 
-- Identified performance requirements.
-- Identified security requirements.
-- Identified usability requirements.
-- Identified reliability requirements.
-- Identified availability requirements.
-- Identified maintainability requirements.
-- Identified scalability requirements.
-- Identified data integrity requirements.
-- Identified backup and recovery requirements.
-- Identified compatibility requirements.
-- Added the non-functional requirements to the SRS document.
-### Session 7 – System Requirements
+### Session 4 – Functional Requirements
 
-- Identified the hardware requirements of the system.
-- Identified the software requirements of the system.
-- Defined the minimum system configuration.
-- Defined the recommended system configuration.
-- Identified the operating system requirements.
-- Identified the database requirements.
-- Identified the development environment.
-- Added the system requirements to the SRS document.
-### Session 8 – Constraints and Assumptions
+* Identified the main functions of the system.
+* Defined student record management.
+* Defined attendance and marks management.
+* Defined search and report generation functions.
+* Added the functional requirements to the SRS.
 
-- Identified the constraints of the Student Management System.
-- Identified authentication and access constraints.
-- Identified hardware and software constraints.
-- Identified database and network constraints.
-- Identified maintenance constraints.
-- Defined the assumptions made for the system.
-- Documented user and data-related assumptions.
-- Added constraints and assumptions to the SRS document.
-### Session 9 – SRS Document Preparation
+### Session 5 – Non-Functional Requirements
 
-- Organized the SRS document.
-- Added the overall description of the system.
-- Added product functions.
-- Added user classes.
-- Added operating environment.
-- Added external interface requirements.
-- Combined the previously prepared requirements.
-- Completed the main SRS document.
+* Identified performance requirements.
+* Identified security requirements.
+* Identified usability and reliability requirements.
+* Identified availability and maintainability requirements.
+* Identified scalability and data integrity requirements.
+* Added backup, recovery and compatibility requirements.
 
-### Session 10 – SRS Review and Validation
+### Session 6 – System Requirements
 
-- Reviewed the completed SRS document.
-- Checked the functional requirements.
-- Checked the non-functional requirements.
-- Checked the system requirements.
-- Checked constraints and assumptions.
-- Corrected formatting and grammatical errors.
-- Verified that all major requirements are included.
-- Reviewed the complete SRS document.
-- Checked all functional requirements.
-- Checked all non-functional requirements.
-- Verified hardware and software requirements.
-- Reviewed constraints and assumptions.
-- Checked stakeholder requirements.
-- Corrected spelling and grammatical errors.
-- Corrected formatting and numbering.
-- Removed duplicate or inconsistent information.
-- Validated the overall SRS document.
+* Identified hardware requirements.
+* Identified software requirements.
+* Defined minimum system configuration.
+* Defined recommended system configuration.
+
+### Session 7 – Constraints and Assumptions
+
+* Identified system constraints.
+* Identified authentication, hardware and software constraints.
+* Identified database and network constraints.
+* Defined the assumptions made for the system.
+
+### Session 8 – SRS Document Preparation
+
+* Organized the complete SRS document.
+* Added the overall description.
+* Added product functions and user classes.
+* Added operating environment.
+* Added external interface requirements.
+* Combined the previously prepared requirements.
+
+### Session 9 – SRS Review and Validation
+
+* Reviewed the complete SRS document.
+* Checked functional and non-functional requirements.
+* Verified hardware and software requirements.
+* Reviewed constraints and assumptions.
+* Corrected spelling and grammatical errors.
+* Corrected formatting and numbering.
+* Removed duplicate or inconsistent information.
+* Validated the SRS document.
+
+### Final Documentation
+
+* Final SRS document prepared.
+* Final storyboard updated.
+* GitHub repository organized.
+* Project files checked before submission.
+
