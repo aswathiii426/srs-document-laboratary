@@ -28,5 +28,4 @@ requirements, system requirements, constraints and other
 necessary specifications.
 
 ## Project Status
-Work in progress.# srs-document-laboratary
-Software Requirements Specification document developed as part of the laboratory activity.
+completed
