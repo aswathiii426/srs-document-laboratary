@@ -264,3 +264,10 @@ The following aspects were checked:
 
 After the review, the SRS document was found to be properly
 organized and suitable for the next stage of the project.
+## 7. Conclusion
+
+The Software Requirements Specification document defines the
+requirements of the proposed Student Management System. The
+document provides a clear description of the system and its
+requirements and can be used as a foundation for further
+development.
