@@ -245,9 +245,21 @@ Regular maintenance, database management and backup are required for reliable op
 
 ---
 
-## 6. Conclusion
+## 6. SRS Review and Validation
 
-The Software Requirements Specification document defines the requirements of the proposed Student Management System. It describes the system scope, stakeholders, functional and non-functional requirements, system requirements, constraints and assumptions.
+The SRS document was reviewed to verify that the requirements are
+clear, complete, consistent and understandable.
 
-The completed SRS provides a clear foundation for understanding and developing the proposed Student Management System.
+The following aspects were checked:
 
+- Functional requirements were reviewed for completeness.
+- Non-functional requirements were checked for clarity.
+- Hardware and software requirements were verified.
+- Constraints and assumptions were reviewed.
+- Stakeholder requirements were checked.
+- Formatting and numbering were corrected.
+- Spelling and grammatical errors were corrected.
+- Duplicate and inconsistent requirements were removed.
+
+After the review, the SRS document was found to be properly
+organized and suitable for the next stage of the project.
