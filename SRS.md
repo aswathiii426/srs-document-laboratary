@@ -174,4 +174,59 @@ software system, database and user access.
   and manage authorized access
   Performance
 
+### 3.2 Non-Functional Requirements
 
+Non-functional requirements describe the quality, performance,
+security and other characteristics of the Student Management System.
+
+#### NFR1 – Performance
+
+The system shall respond to user requests within a reasonable
+amount of time and should provide quick access to student records.
+
+#### NFR2 – Security
+
+The system shall provide secure login and authentication.
+Only authorized users shall be allowed to access restricted
+student information.
+
+#### NFR3 – Usability
+
+The system shall provide a simple, clear and user-friendly
+interface so that students, teachers and administrators can
+use the system easily.
+
+#### NFR4 – Reliability
+
+The system shall operate reliably and should minimize data loss
+during normal operation.
+
+#### NFR5 – Availability
+
+The system should be available to authorized users whenever
+the system is required for normal academic activities.
+
+#### NFR6 – Maintainability
+
+The system shall be designed so that software updates,
+maintenance and modifications can be performed easily.
+
+#### NFR7 – Scalability
+
+The system should be capable of handling an increasing number
+of students, users and academic records.
+
+#### NFR8 – Data Integrity
+
+The system shall maintain accurate and consistent student,
+attendance and academic information.
+
+#### NFR9 – Backup and Recovery
+
+The system should provide suitable mechanisms for backing up
+important data and recovering information in case of data loss.
+
+#### NFR10 – Compatibility
+
+The system should be compatible with the required operating
+system, database and web browser or application environment.
