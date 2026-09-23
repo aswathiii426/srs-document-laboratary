@@ -23,8 +23,8 @@ of the proposed software system.
 | 6 | Non-functional requirement identification | completed |
 | 7 | System requirement identification | completed |
 | 8 | Constraints and assumptions | completed |
-| 9 | SRS document preparation | Not Started |
-| 10 | SRS review and validation | Not Started |
+| 9 | SRS document preparation | completed |
+| 10 | SRS review and validation | in progress|
 | 11 | Final documentation | Not Started |
 | 12 | Final submission | Not Started |
 
