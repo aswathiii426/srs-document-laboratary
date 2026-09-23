@@ -70,3 +70,13 @@ of the proposed software system.
 - Identified backup and recovery requirements.
 - Identified compatibility requirements.
 - Added the non-functional requirements to the SRS document.
+### Session 7 – System Requirements
+
+- Identified the hardware requirements of the system.
+- Identified the software requirements of the system.
+- Defined the minimum system configuration.
+- Defined the recommended system configuration.
+- Identified the operating system requirements.
+- Identified the database requirements.
+- Identified the development environment.
+- Added the system requirements to the SRS document.
