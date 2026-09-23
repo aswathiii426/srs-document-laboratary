@@ -247,3 +247,15 @@ Management System are:
 | Mouse | Standard mouse |
 | Display | 1366 × 768 resolution or above |
 | Network | Internet/LAN connection when required |
+### 4.2 Software Requirements
+
+The software requirements for the Student Management System are:
+
+| Software | Requirement |
+|----------|-------------|
+| Operating System | Windows / Linux |
+| Programming Language | Java / Python / PHP |
+| Database | MySQL |
+| Web Browser | Google Chrome / Mozilla Firefox |
+| Development Environment | VS Code / IntelliJ IDEA / Eclipse |
+| Database Management Tool | MySQL Workbench / phpMyAdmin |
