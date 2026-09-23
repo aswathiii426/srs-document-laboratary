@@ -321,7 +321,7 @@ The following assumptions are made for the Student Management System:
 
 10. The system will be used according to the defined requirements
     and user roles.
-1.4 References
+1.4 References 
 Software Requirements Specification guidelines
 Software Engineering course materials
 Laboratory requirements and project specifications
