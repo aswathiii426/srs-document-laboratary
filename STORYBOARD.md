@@ -20,7 +20,7 @@ of the proposed software system.
 | 3 | Problem statement preparation | Completed |
 | 4 | Stakeholder identification | completed |
 | 5 | Functional requirement identification | completed |
-| 6 | Non-functional requirement identification | Not Started |
+| 6 | Non-functional requirement identification | completed |
 | 7 | System requirement identification | Not Started |
 | 8 | Constraints and assumptions | Not Started |
 | 9 | Use case preparation | Not Started |
