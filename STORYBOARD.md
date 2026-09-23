@@ -30,7 +30,7 @@ of the proposed Student Management System.
 | 9     | SRS document preparation                  | Completed   |
 | 10    | SRS review and validation                 | Completed   |
 | 11    | Final documentation                       | In Progress |
-| 12    | Final submission                          | Not Started |
+| 12    | Final submission                          | completed |
 
 ## Progress Log
 
