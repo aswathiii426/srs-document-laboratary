@@ -109,3 +109,13 @@ of the proposed software system.
 - Checked constraints and assumptions.
 - Corrected formatting and grammatical errors.
 - Verified that all major requirements are included.
+- Reviewed the complete SRS document.
+- Checked all functional requirements.
+- Checked all non-functional requirements.
+- Verified hardware and software requirements.
+- Reviewed constraints and assumptions.
+- Checked stakeholder requirements.
+- Corrected spelling and grammatical errors.
+- Corrected formatting and numbering.
+- Removed duplicate or inconsistent information.
+- Validated the overall SRS document.
