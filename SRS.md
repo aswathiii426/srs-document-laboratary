@@ -38,11 +38,11 @@
 
 ### 4.2 Software Requirements
 
-## 5. Use Cases
+## 
 
-## 6. System Models
+## 5. System Models
 
-## 7. Conclusion
+## 6. Conclusion
 # Software Requirements Specification
 
 ## 1. Introduction
