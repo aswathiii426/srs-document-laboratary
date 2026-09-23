@@ -57,3 +57,16 @@ of the proposed software system.
 
 - Identified the functional requirements.
 - Documented the main functions of the system.
+### Session 6 – Non-Functional Requirements
+
+- Identified performance requirements.
+- Identified security requirements.
+- Identified usability requirements.
+- Identified reliability requirements.
+- Identified availability requirements.
+- Identified maintainability requirements.
+- Identified scalability requirements.
+- Identified data integrity requirements.
+- Identified backup and recovery requirements.
+- Identified compatibility requirements.
+- Added the non-functional requirements to the SRS document.
