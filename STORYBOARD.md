@@ -89,3 +89,23 @@ of the proposed software system.
 - Defined the assumptions made for the system.
 - Documented user and data-related assumptions.
 - Added constraints and assumptions to the SRS document.
+### Session 9 – SRS Document Preparation
+
+- Organized the SRS document.
+- Added the overall description of the system.
+- Added product functions.
+- Added user classes.
+- Added operating environment.
+- Added external interface requirements.
+- Combined the previously prepared requirements.
+- Completed the main SRS document.
+
+### Session 10 – SRS Review and Validation
+
+- Reviewed the completed SRS document.
+- Checked the functional requirements.
+- Checked the non-functional requirements.
+- Checked the system requirements.
+- Checked constraints and assumptions.
+- Corrected formatting and grammatical errors.
+- Verified that all major requirements are included.
